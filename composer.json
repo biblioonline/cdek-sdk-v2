@@ -1,5 +1,5 @@
 {
-  "name": "antistress-store/cdek-sdk-v2",
+  "name": "biblioonline/cdek-sdk-v2",
   "description": "PHP SDK для API v2.0 от сервиса интеграции компании СДЭК",
   "keywords": [
     "CDEK",
